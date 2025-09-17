@@ -56,7 +56,6 @@ Applications and services that require AI capabilities with privacy guarantees a
 
 ## System Architecture
 
-(*Section retained from Introduction for quick reference; no content changed.*)
 
 Our architecture consists of three primary stakeholder groups:
 
